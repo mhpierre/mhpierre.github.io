@@ -11,54 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering, *École nationale des ponts et chaussées*, 2024 (expected)
+* Engineering diploma, *École nationale des ponts et chaussées*, 2021
+* M.Sc. in Civil Engineering, *University of Tokyo*, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2024: Doctoral Researcher, *École nationale des ponts et chaussées*
+  * Poromechanical modelling of cement-based materials
+  * Development of a simulation framework for 3D printing
+  * Teaching in-situ geotechnical tests to master students
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb.-Jul. 2019: Structural Engineer-Architect, *bordas+peiro*
+  * SHiFT building, *Issy-les-Moulineaux*: Heavy renovation of a 45000m2 office building with complex steel structures
+  * Design of several ppst-tensioned concrete bridges up to 25m in a seismic area
+  * API development in Revit to transfer geometries to and from Midas Gen for structural analysis
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jul.-Dec. 2018: Engineer - digital transition, *Autoroutes Paris-Rhin-Rhône*
+  * NumA project for the digitalisation of field jobs in highways
+  * Introduction of digital project management
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Continuum mechanics
+* Mechanics and physics of porous media
+* Computational mechanics
+  * Multi-physics material behaviour development with [MFront](https://thelfer.github.io/tfel/web/)
+  * Finite Element Analysis using [FEniCSx](https://fenicsproject.org)
+* Homogenisation
+
+* Structural design
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}
