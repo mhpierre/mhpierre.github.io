@@ -11,23 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, *École nationale des ponts et chaussées*, 2024 (expected)
-* Engineering diploma, *École nationale des ponts et chaussées*, 2021
-* M.Sc. in Civil Engineering, *University of Tokyo*, 2021
+* **Ph.D in Civil Engineering**, *École nationale des ponts et chaussées*, 2024
+* **Engineering diploma**, *École nationale des ponts et chaussées*, 2021
+* **M.Sc. in Civil Engineering**, *University of Tokyo*, 2021
 
 Work experience
 ======
-* 2021-2024: Doctoral Researcher, *École nationale des ponts et chaussées*
+* 2025-Current: **Postdoctoral Researcher**, *École nationale des ponts et chaussées*
+  * Modelling the initial stress state in cement sheaths of deep wells
+  * Well behaviour during cold CO<sub>2</sub> injection
+
+* 2021-2024: **Doctoral Researcher**, *École nationale des ponts et chaussées*
   * Poromechanical modelling of cement-based materials
-  * Development of a simulation framework for 3D printing
+  * Development of a multi-physics simulation framework for 3D printing
   * Teaching in-situ geotechnical tests to master students
 
-* Feb.-Jul. 2019: Structural Engineer-Architect, *bordas+peiro*
+* Feb.-Jul. 2019: **Structural Engineer - Architect**, *bordas+peiro*
   * SHiFT building, *Issy-les-Moulineaux*: Heavy renovation of a 45000m2 office building with complex steel structures
   * Design of several ppst-tensioned concrete bridges up to 25m in a seismic area
   * API development in Revit to transfer geometries to and from Midas Gen for structural analysis
 
-* Jul.-Dec. 2018: Engineer - digital transition, *Autoroutes Paris-Rhin-Rhône*
+* Jul.-Dec. 2018: **Engineer - digital transition**, *Autoroutes Paris-Rhin-Rhône*
   * NumA project for the digitalisation of field jobs in highways
   * Introduction of digital project management
 

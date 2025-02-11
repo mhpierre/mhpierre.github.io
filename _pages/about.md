@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at [Laboratoire Navier](https://navier-lab.fr), working at the Geotechnics, Multi-scale and Architected materials and structures teams on modelling of cement-based materials.
+I am currently a postdoctoral researcher at [Laboratoire Navier](https://navier-lab.fr).
 
 My interests lie in *poromechanics*, *coupled processes* and *numerical modelling*.
 
